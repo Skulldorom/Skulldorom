@@ -1,3 +1,4 @@
+<p><img align="center" src="https://pbs.twimg.com/profile_banners/108278717/1625212839" alt="skulldorom" /></p>
 <h1 align="center">Hi 👋, I'm Adam Desa</h1>
 <h3 align="center">A passionate fullstack web devlepor</h3>
 
@@ -15,8 +16,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Skulldorom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Skulldorom" /></a></p><br><br>
 
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skulldorom&show_icons=true&locale=en&layout=compact" alt="skulldorom" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skulldorom&show_icons=true&locale=en" alt="skulldorom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=skulldorom&show_icons=true&locale=en" alt="skulldorom" /></p>
 
