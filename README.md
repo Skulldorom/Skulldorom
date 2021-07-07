@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skulldorom&label=Profile%20views&color=0e75b6&style=flat" alt="skulldorom" /> </p>
 
-- 👨‍💻 Some of my projects are available at [adesa.tech](adesa.tech)
+- 👨‍💻 Some of my projects are available at [adesa.tech](https://adesa.tech/programs/)
 
 - 📫 How to reach me **https://adesa.tech/contact-us/**
 
