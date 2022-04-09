@@ -6,7 +6,7 @@
 
 - 👨‍💻 Some of my projects are available at [adamdesa.com](https://adamdesa.com/)
 
-- 📫 How to reach me **https://adesa.tech/contact-us/**
+- 📫 How to reach me **https://adamdesa.com/more/contactMe**
 
 
 <h3 align="left">Languages and Tools:</h3>
