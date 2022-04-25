@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adamdesa.com/more/programs](https://adamdesa.com/more/programs)
 
-- 💬 Ask me about **any of my projects**
+- 💬 Ask me about **Python, Javascript, React, Flask**
 
 - 📫 How to reach me **https://adamdesa.com/more/contactMe**
 
