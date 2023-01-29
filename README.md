@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skulldorom&label=Profile%20views&color=0e75b6&style=flat" alt="skulldorom" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://adamdesa.com/more/programs](https://adamdesa.com/more/programs)
+- 👨‍💻 All of my projects are available at [https://adamdesa.com/more/projects](https://adamdesa.com/more/projects)
 
 - 💬 Ask me about **Python, Javascript, React, Flask**
 
