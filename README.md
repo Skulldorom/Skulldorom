@@ -1,5 +1,5 @@
 <p><img align="center" src="https://pbs.twimg.com/profile_banners/108278717/1625212839" alt="skulldorom" /></p>
-<h1 align="center">Hi 👋, I'm I'm Adam Desa</h1>
+<h1 align="center">Hi 👋, I'm Adam Desa</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skulldorom&label=Profile%20views&color=0e75b6&style=flat" alt="skulldorom" /> </p>
