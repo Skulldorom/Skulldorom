@@ -1,4 +1,4 @@
-<p><img align="center" src="https://pbs.twimg.com/profile_banners/108278717/1625212839" alt="skulldorom" /></p>
+<p><img align="center" src="https://media.licdn.com/dms/image/D5616AQGfZxlr3zVdng/profile-displaybackgroundimage-shrink_350_1400/0/1680515243358?e=1688601600&v=beta&t=PvIf3frswublLxsi5wG2EPHODPxPLM0WMkpeAhvIynU" alt="skulldorom" /></p>
 <h1 align="center">Hi 👋, I'm Adam Desa</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
