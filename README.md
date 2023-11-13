@@ -1,4 +1,4 @@
-<p><img align="center" src="https://media.licdn.com/dms/image/D5616AQGfZxlr3zVdng/profile-displaybackgroundimage-shrink_350_1400/0/1680515243358?e=1696464000&v=beta&t=umzkcoYeGsSpWHQUIPLeyW274Xi2aZ8XpfM7h5qJXKk" alt="skulldorom" /></p>
+<p><img align="center" src="https://media.licdn.com/dms/image/D5616AQGfZxlr3zVdng/profile-displaybackgroundimage-shrink_350_1400/0/1680515252451?e=1705536000&v=beta&t=KPW692bcWWuyv0c8Nd8ElnyqjXhSulRfudgLz6baqjs" alt="banner" /></p>
 <h1 align="center">Hi 👋, I'm Adam Desa</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
