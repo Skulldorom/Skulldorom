@@ -1,4 +1,3 @@
-<p><img align="center" src="https://media.licdn.com/dms/image/D5616AQGfZxlr3zVdng/profile-displaybackgroundimage-shrink_350_1400/0/1680515252451?e=1720656000&v=beta&t=0LU8ZpW1Uyd9-6aFHHhk__yNaKmAebhPyoIO3dVIb44" alt="banner" /></p>
 <h1 align="center">Hi 👋, I'm Adam Desa</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
