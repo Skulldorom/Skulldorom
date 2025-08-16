@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Desa</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5616AQGfZxlr3zVdng/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1680515252451?e=1746662400&v=beta&t=efpcGCv26QsuTXwpzma1wLMDvOORIAVwJRxpClY_RAU" alt="skulldorom" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://adamdesa.com/more/projects](https://adamdesa.com/more/projects)
 
 - 💬 Ask me about **Python, Javascript, React, Flask**
