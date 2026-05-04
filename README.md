@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at [https://adamdesa.com/more/projects](https://adamdesa.com/more/projects)<br>💬 Ask me about **Python, Javascript, React, Flask**<br>📫 How to reach me **https://adamdesa.com/more/contactMe**<br>📄 Know about my experiences [https://adamdesa.com/more/aboutMe](https://adamdesa.com/more/aboutMe)
+👨‍💻 All of my projects are available at [https://adamdesa.com/projects](https://adamdesa.com/projects)<br>💬 Ask me about **Python, Javascript, React, Flask**<br>📫 How to reach me **https://adamdesa.com/contactMe**<br>📄 Know about my experiences [https://adamdesa.com/aboutMe](https://adamdesa.com/aboutMe)
 
 
 # 💻 Tech Stack:
