@@ -1,22 +1,140 @@
-# 💫 About Me:
-👨‍💻 All of my projects are available at [https://adamdesa.com/projects](https://adamdesa.com/projects)<br>💬 Ask me about **Python, Javascript, React, Flask**<br>📫 How to reach me **https://adamdesa.com/contactMe**<br>📄 Know about my experiences [https://adamdesa.com/aboutMe](https://adamdesa.com/aboutMe)
+<div align="center">
 
+```
+   ▄▄▄· ▄▄▄·  ▄▄▄· • ▌ ▄ ·.     ▄▄▄  ▪  ·▄▄▄▄  
+  ▐█ ▄█▐█ ▀█ ▐█ ▀█ ·██ ▐███▪    ▀▄ █·██ ██▪ ██ 
+   ██▀·▄█▀▀█ ▄█▀▀█ ▐█ ▌▐▌▐█·    ▐▀▀▄ ▐█·▐█· ▐█▌
+  ▐█▪·•▐█ ▪▐▌▐█ ▪▐▌██ ██▌▐█▌    ▐█•█▌▐█▌██. ██ 
+  .▀    ▀  ▀  ▀  ▀ ▀▀  █▪▀▀▀    .▀  ▀▀▀▀▀▀▀▀▀▀• 
+```
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Skulldorom&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Skulldorom&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skulldorom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Adam Desa
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Skulldorom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Full Stack Developer & Digital Artist
+
+*Building web apps, self-hosting everything, and occasionally touching grass.*
+
+[![Portfolio](https://img.shields.io/badge/adamdesa.com-000?style=flat-square&logo=safari&logoColor=white)](https://adamdesa.com)
+[![Email](https://img.shields.io/badge/contact%40adamdesa.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@adamdesa.com)
+[![Instagram](https://img.shields.io/badge/@skulldorom-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skulldorom/)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Skulldorom&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/skulldorom) 
+### 👋 Hey there
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm Adam — fullstack developer with **8+ years** of building things on the web. I live in the React/Flask ecosystem, ship Docker containers like they're going out of style, and run my own infrastructure because cloud bills are a scam.
+
+Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, and a Proxmox server that hasn't caught fire yet.
+
+- 🔭 **Currently:** Building tools with [Hermes Agent](https://github.com/NousResearch/hermes-agent), automating workflows, and maintaining my self-hosted stack
+- 🌱 **Learning:** Deeper AI/ML integration, self-hosted LLMs, and whatever breaks next
+- 💬 **Talk to me about:** Python, React, Flask, Docker, self-hosting, Stream Deck plugins
+- 📫 **Reach me:** [contact@adamdesa.com](mailto:contact@adamdesa.com) or [adamdesa.com/contactMe](https://adamdesa.com/contactMe)
+
+---
+
+### 🛠 Tech Stack
+
+<!-- Purged the badge soup. These are the ones I actually use. -->
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB?style=flat-square&logo=mui&logoColor=white)
+
+![Flask](https://img.shields.io/badge/flask-%23000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031?style=flat-square&logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098?style=flat-square&logo=heroku&logoColor=white)
+
+![C++](https://img.shields.io/badge/c++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=flat-square&logo=powershell&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Skulldorom/rss-api">RSS API</a></h3>
+      <p>FastAPI-powered RSS feed bridge for FreshRSS → Homepage dashboard. Dockerized. 12 ⭐</p>
+      <p><sub>Python · FastAPI · Docker</sub></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Skulldorom/MUI-universal-table">MUI Universal Table</a></h3>
+      <p>Server-side paginated, sortable, searchable table component built with Material UI. 2 ⭐</p>
+      <p><sub>JavaScript · React · MUI</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Skulldorom/Bluetooth-Battery-Streamdeck">Bluetooth Battery Stream Deck</a></h3>
+      <p>Stream Deck plugin that monitors your Bluetooth device batteries at a glance. 1 ⭐</p>
+      <p><sub>TypeScript · Stream Deck SDK</sub></p>
+    </td>
+    <td>
+      <h3>Proxmox Discord Notifier</h3>
+      <p>Pushes Proxmox backup & VM log notifications to Discord with rich embeds. Solves the 2000-char limit elegantly.</p>
+      <p><sub>Python · FastAPI · Docker</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <a href="https://adamdesa.com/projects"><b>→ See all 13+ projects at adamdesa.com/projects</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Skulldorom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Skulldorom&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skulldorom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+### 🎨 Beyond the Code
+
+When I'm not breaking production:
+
+- 🖌 **Digital Art & Graphic Design** — the other half of my creative brain
+- 🖥 **Self-Hosting & Home Labs** — Proxmox, Docker, services that should probably stay in the cloud
+- 🤖 **AI & Machine Learning** — self-hosted LLMs, exploring what's possible
+- 🔐 **Cybersecurity & Privacy** — because the internet is a scary place
+- 🎮 **Gaming** — occasionally
+
+---
+
+### 💰 Support
+
+If my projects save you time or sanity, coffee is always appreciated.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/skulldorom)
+
+---
+
+<div align="center">
+  <sub>© 2026 Skulldorom · Built with caffeine and questionable life choices</sub>
+</div>
