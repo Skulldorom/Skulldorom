@@ -89,7 +89,7 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Skulldorom&show_icons=true&theme=midnight_purple&include_all_commits=true&count_private=true&hide_border=true" alt="Skulldorom stats"/> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Skulldorom&layout=compact&langs_count=8&theme=midnight_purple&hide_border=true" alt="Skulldorom top languages"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Skulldorom&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Skulldorom stats"/> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Skulldorom&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Skulldorom top languages"/>
 
 </div>
 
