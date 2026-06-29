@@ -1,21 +1,20 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Skulldorom&fontSize=68&fontColor=ffffff&fontAlignY=35&fontStyle=bold&desc=Full-Stack%20Developer&descSize=20&descAlignY=65&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Skulldorom banner"/>
+</div>
 
-# Skulldorom
+<div align="center">
 
-### Full Stack Developer & Digital Artist
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Building%20web%20apps;Self-hosting%20everything;Occasionally%20touching%20grass)](https://git.io/typing-svg)
 
-*Building web apps, self-hosting everything, and occasionally touching grass.*
-
-[![Portfolio](https://img.shields.io/badge/adamdesa.com-000?style=flat-square&logo=aboutdotme&logoColor=white)](https://adamdesa.com)
-[![Email](https://img.shields.io/badge/contact%40adamdesa.com-000?style=flat-square&logo=minutemailer&logoColor=white)](mailto:contact@adamdesa.com)
-[![Instagram](https://img.shields.io/badge/@skulldorom-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skulldorom/)
-[![Buy Me a Coffee](https://img.shields.io/badge/sponsor-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/skulldorom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@adamdesa.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://adamdesa.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/skulldorom)
 
 </div>
 
 ---
 
-### 👋 Hey there
+### About
 
 I'm Adam — fullstack developer with **8+ years** of building things on the web. I live in the React/Flask ecosystem, ship Docker containers like they're going out of style, and run my own infrastructure because cloud bills are a scam.
 
@@ -27,44 +26,29 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 
 ---
 
-### 🛠 Tech Stack
+### Stack
 
 <!-- Matches adamdesa.com/aboutMe — the tools I actually use. -->
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,py,js,html,css,cpp&theme=dark" alt="Languages"/>
+
 **Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![Material-UI](https://img.shields.io/badge/MUI-%230081CB?style=flat-square&logo=mui&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-%2300D1B2?style=flat-square&logo=bulma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,materialui&theme=dark" alt="Frontend"/>
 
-**Backend**
+**Backend & Databases**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=flat-square&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,flask,fastapi,express,sqlite&theme=dark" alt="Backend & Databases"/>
 
 **DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011?style=flat-square&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098?style=flat-square&logo=heroku&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-%2321759B?style=flat-square&logo=wordpress&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Stream Deck SDK](https://img.shields.io/badge/streamdeck-%230084FF?style=flat-square&logo=elgato&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,github,heroku,wordpress,vscode&theme=dark" alt="DevOps & Tools"/>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -101,23 +85,17 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<!-- Using community mirrors since the main Vercel instance lost sponsorship -->
-
-![Stats](https://github-readme-stats.shion.dev/api?username=Skulldorom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Skulldorom&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Skulldorom&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Skulldorom&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Skulldorom stats"/> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Skulldorom&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Skulldorom top languages"/>
 
 </div>
 
 ---
 
-### 🎨 Beyond the Code
+### Beyond the Code
 
 When I'm not breaking production:
 
@@ -130,5 +108,9 @@ When I'm not breaking production:
 ---
 
 <div align="center">
-  <sub>© 2026 Skulldorom · Built with caffeine and questionable life choices</sub>
+
+<sub>© 2026 Skulldorom · Built with caffeine and questionable life choices</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%" alt="Footer wave"/>
+
 </div>
