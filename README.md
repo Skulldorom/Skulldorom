@@ -21,7 +21,6 @@ I'm Adam — fullstack developer with **8+ years** of building things on the web
 
 Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, and a Proxmox server that hasn't caught fire yet.
 
-- 🔭 **Currently:** Building tools with [Hermes Agent](https://github.com/NousResearch/hermes-agent), automating workflows, and maintaining my self-hosted stack
 - 🌱 **Learning:** Deeper AI/ML integration, self-hosted LLMs, and whatever breaks next
 - 💬 **Talk to me about:** Python, React, Flask, Docker, self-hosting, Stream Deck plugins
 - 📫 **Reach me:** [contact@adamdesa.com](mailto:contact@adamdesa.com) or [adamdesa.com/contactMe](https://adamdesa.com/contactMe)
