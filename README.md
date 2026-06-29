@@ -37,17 +37,14 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,vite,materialui&theme=dark" alt="Frontend"/>
-![Bulma](https://img.shields.io/badge/bulma-%2300D1B2?style=flat-square&logo=bulma&logoColor=white)
 
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,flask,fastapi,express,sqlite&theme=dark" alt="Backend & Databases"/>
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 **DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=docker,github,heroku,wordpress,vscode&theme=dark" alt="DevOps & Tools"/>
-![Stream Deck SDK](https://img.shields.io/badge/streamdeck-%230084FF?style=flat-square&logo=elgato&logoColor=white)
 
 ---
 
