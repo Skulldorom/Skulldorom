@@ -55,7 +55,7 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 <a href="https://github.com/Skulldorom/rss-api"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=rss-api&theme=dark&hide_border=true" alt="rss-api"/></a>
 <a href="https://github.com/Skulldorom/MUI-universal-table"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=MUI-universal-table&theme=dark&hide_border=true" alt="MUI-universal-table"/></a>
 
-<a href="https://github.com/Skulldorom/Bluetooth-Battery-Streamdeck"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=Bluetooth-Battery-Streamdeck&theme=dark&hide_border=true" alt="Bluetooth-Battery-Streamdeck"/></a>
+<a href="https://github.com/Skulldorom/PVE-Cron-LXC-Apps-Update"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=PVE-Cron-LXC-Apps-Update&theme=dark&hide_border=true" alt="PVE-Cron-LXC-Apps-Update"/></a>
 <a href="https://github.com/Skulldorom/proxmox-discord-notifier"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=proxmox-discord-notifier&theme=dark&hide_border=true" alt="proxmox-discord-notifier"/></a>
 
 <br><br>
