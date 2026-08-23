@@ -52,11 +52,11 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 
 <div align="center">
 
-<a href="https://github.com/Skulldorom/rss-api"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=rss-api&theme=dark&hide_border=true" alt="rss-api"/></a>
-<a href="https://github.com/Skulldorom/MUI-universal-table"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=MUI-universal-table&theme=dark&hide_border=true" alt="MUI-universal-table"/></a>
+<a href="https://github.com/Skulldorom/rss-api"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=rss-api&theme=dark&hide_border=true" alt="rss-api"/></a>
+<a href="https://github.com/Skulldorom/MUI-universal-table"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=MUI-universal-table&theme=dark&hide_border=true" alt="MUI-universal-table"/></a>
 
-<a href="https://github.com/Skulldorom/PVE-Cron-LXC-Apps-Update"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=PVE-Cron-LXC-Apps-Update&theme=dark&hide_border=true" alt="PVE-Cron-LXC-Apps-Update"/></a>
-<a href="https://github.com/Skulldorom/proxmox-discord-notifier"><img height="130" src="https://github-readme-stats-five-xi-21.vercel.app/api/pin/?username=Skulldorom&repo=proxmox-discord-notifier&theme=dark&hide_border=true" alt="proxmox-discord-notifier"/></a>
+<a href="https://github.com/Skulldorom/PVE-Cron-LXC-Apps-Update"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=PVE-Cron-LXC-Apps-Update&theme=dark&hide_border=true" alt="PVE-Cron-LXC-Apps-Update"/></a>
+<a href="https://github.com/Skulldorom/proxmox-discord-notifier"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=proxmox-discord-notifier&theme=dark&hide_border=true" alt="proxmox-discord-notifier"/></a>
 
 <br><br>
 <a href="https://adamdesa.com/projects"><b>→ See all 13+ projects at adamdesa.com/projects</b></a>
@@ -69,7 +69,7 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-five-xi-21.vercel.app/api?username=Skulldorom&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Skulldorom stats"/> <img height="165" src="https://github-readme-stats-five-xi-21.vercel.app/api/top-langs/?username=Skulldorom&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Skulldorom top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Skulldorom&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Skulldorom stats"/> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Skulldorom&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Skulldorom top languages"/>
 
 </div>
 
