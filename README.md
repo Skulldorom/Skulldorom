@@ -48,23 +48,6 @@ Started coding in 2018 and haven't looked back. 13+ projects, 23 technologies, a
 
 ---
 
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Skulldorom/rss-api"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=rss-api&theme=dark&hide_border=true" alt="rss-api"/></a>
-<a href="https://github.com/Skulldorom/MUI-universal-table"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=MUI-universal-table&theme=dark&hide_border=true" alt="MUI-universal-table"/></a>
-
-<a href="https://github.com/Skulldorom/PVE-Cron-LXC-Apps-Update"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=PVE-Cron-LXC-Apps-Update&theme=dark&hide_border=true" alt="PVE-Cron-LXC-Apps-Update"/></a>
-<a href="https://github.com/Skulldorom/proxmox-discord-notifier"><img height="130" src="https://github-stats-extended.vercel.app/api/pin/?username=Skulldorom&repo=proxmox-discord-notifier&theme=dark&hide_border=true" alt="proxmox-discord-notifier"/></a>
-
-<br><br>
-<a href="https://adamdesa.com/projects"><b>→ See all 13+ projects at adamdesa.com/projects</b></a>
-
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="center">
